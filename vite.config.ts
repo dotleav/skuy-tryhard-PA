@@ -12,5 +12,5 @@ export default defineConfig({
   // Set this to your GitHub repo name if deploying to:
   // https://<username>.github.io/<repo-name>/
   // Leave as '/' if deploying to a custom domain or user/org page
-  base: '/tryhard-pa-nya-ot/',
+  base: '/skuy-tryhard-PA/',
 })

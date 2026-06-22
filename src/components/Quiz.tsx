@@ -44,7 +44,7 @@ function shuffleArray<T>(arr: T[]): T[] {
 
 // ── LocalStorage (Mode Biasa — persists across refresh & tab close) ────────────
 
-const LS_KEY = 'quiz_biasa_progress_v2_patologianatomi'
+const LS_KEY = 'quiz_biasa_progress_v2_patologianatomi_mt'
 
 interface SavedBiasaState {
   selectedCategory: string
